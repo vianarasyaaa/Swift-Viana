@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+node_modules/
+auth_info_baileys/
+session/
+sessions/
+*.pem
+*.key
